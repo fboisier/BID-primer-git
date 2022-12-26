@@ -1,0 +1,6 @@
+git init    // inicializamos el repositorio GIT LOCAL
+
+git add .   // subimos todos los cambios pendientes y archivos nuevos al STAGE
+
+git commit -m "comentario"  // saca una foto para la enternidad de lo que esté en el
+							STAGE
