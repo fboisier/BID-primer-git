@@ -1,5 +1,7 @@
 # Este es un repositorio para explicar los comandos mas utiles de GIT
 
+## ESTE ES SOLO UN APUNTE
+
 ```
 git init    // inicializamos el repositorio GIT LOCAL
 
