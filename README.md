@@ -2,6 +2,8 @@
 
 ## ESTE ES SOLO UN APUNTE
 
+ACTUALIZANDO. EJEMPLO.
+
 ```
 git init    // inicializamos el repositorio GIT LOCAL
 
