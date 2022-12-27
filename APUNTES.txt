@@ -13,3 +13,8 @@ git  config --global alias.s "status -s -b"
 
 git log  // ver listado de commits realizados
 
+git reset --hard <<id commit>>      // CUIDADO PORQUE ELIMINA CAMBIOS QUE ESTEN PENDIENTES DE SUBIR EN EL STAGE.  este comando deja tal cual como estaba el codigo cuando dimos el commit.
+
+git reset --soft <<id commit>>      // vuelve al commit indicado sin eliminar cambios.
+
+git reflog : comando similar al log pero que muestra el historial de todos los cambios o reset realizados.
