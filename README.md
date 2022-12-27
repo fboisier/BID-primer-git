@@ -2,6 +2,8 @@
 
 ## ESTE ES SOLO UN APUNTE
 
+NUESTRO CODIGO NUEVO.
+
 ```
 git init    // inicializamos el repositorio GIT LOCAL
 
